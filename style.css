@@ -54,3 +54,11 @@ span{
 .profile li{
     padding-bottom: 24px;
 }
+
+.education .content{
+    padding-bottom: 64px;
+}
+
+.education li{
+    padding-top: 16px;
+}

@@ -134,8 +134,7 @@ h3{
 }
 
 .contact .content{
-    padding-top: 24px;
-    padding-bottom: 40px;
+    padding: 24px 0;
 }
 
 .contact li{

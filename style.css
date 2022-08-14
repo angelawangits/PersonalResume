@@ -94,3 +94,30 @@ span{
     padding-left: 24px;
     margin-bottom: 8px;
 }
+
+h3{
+    font-family: sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.experience{
+    margin-bottom: 80px;
+}
+
+.experience p{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.experience .content{
+    margin-top: 16px;
+    margin-left: 24px;
+    border-left: 1px solid #96A9C4;
+    padding-left: 24px;
+}
+
+.experience li{
+    margin-bottom: 24px;
+}

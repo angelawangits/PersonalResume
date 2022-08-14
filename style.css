@@ -4,6 +4,29 @@ h1{
     line-height: 95px;
 }
 
+h2{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1.5;
+    padding-bottom: 8px;
+    border-bottom: 1px solid black;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+span{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.5;
+    margin-left: 16px;
+}
+
 .container{
     width: 1200px;
     margin: 0 auto;
@@ -17,4 +40,17 @@ h1{
 
 .photo{
     margin: 48px 0;
+}
+
+.primary-color span{
+    color: #A00404;
+}
+
+.profile .content{
+    padding-top: 16px;
+    padding-bottom: 40px;
+}
+
+.profile li{
+    padding-bottom: 24px;
 }

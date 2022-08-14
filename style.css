@@ -121,3 +121,27 @@ h3{
 .experience li{
     margin-bottom: 24px;
 }
+
+.contact{
+    background-color: #415165;
+    text-align: center;
+    color: white;
+    padding-top: 24px;
+}
+
+.contact p{
+    font-weight: 300;
+}
+
+.contact .content{
+    padding-top: 24px;
+    padding-bottom: 40px;
+}
+
+.contact li{
+    margin-bottom: 16px;
+}
+
+.contact img{
+    margin-right: 24px;
+}

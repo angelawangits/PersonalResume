@@ -42,7 +42,7 @@ span{
     margin: 48px 0;
 }
 
-.primary-color span{
+.primary-color-title span{
     color: #A00404;
 }
 
@@ -61,4 +61,36 @@ span{
 
 .education li{
     padding-top: 16px;
+}
+
+.skill{
+    background-color: #415165;
+    text-align: center;
+    padding-bottom: 32px;
+    margin-bottom: 64px;
+}
+
+.skill-container{
+    width: 996px;
+    margin: 0 auto;
+    padding-top: 24px;
+}
+
+.secondary-color-title {
+    color: white;
+    border-color: white;
+}
+
+.skill .content{
+    color: white;
+    border-left: 1px solid #96A9C4;   
+    width: 225px;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.skill .content li{
+    padding-left: 24px;
+    margin-bottom: 8px;
 }
